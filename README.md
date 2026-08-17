@@ -95,3 +95,5 @@ Clash Royale v15/
 The name popup is driven by which OwnHomeData template is served: an account **without** a name gets
 the "unnamed" template (popup), and once a name is confirmed the server serves the "named" template
 (no popup on the next login).
+
+The client: https://mega.nz/file/YZ9nxQQQ#CtZbwSeF-xlVpnvaoGVX2Nom2dQklGcn8ZLyOxbdPQs
