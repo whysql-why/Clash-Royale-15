@@ -1,0 +1,5 @@
+{
+  "_comment": "Edit 'gold' and 'gems', then reconnect the client to see the change (no server restart needed).",
+  "gold": 50000,
+  "gems": 10000
+}

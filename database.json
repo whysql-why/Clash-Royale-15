@@ -1,0 +1,1344 @@
+[
+  {
+    "_systemid": 1,
+    "id": {
+      "high": 0,
+      "low": 1
+    },
+    "token": "dnxiddt9p4rr7wiulyxo",
+    "username": "sss",
+    "nameSet": 1,
+    "xpLevel": 0,
+    "xp": 0,
+    "arena": 54000001,
+    "trophies": 0,
+    "highestTrophies": 0,
+    "legendTrophies": 0,
+    "seasonTrophies": 0,
+    "seasonHighestTrophies": 0,
+    "starPoints": 0,
+    "badgeTier": 21,
+    "seasonId": 202601,
+    "loadingScreen": "202601 - Loading Screen",
+    "gold": 50000,
+    "gems": 10000,
+    "wins": 0,
+    "losses": 0,
+    "threeCrownWins": 0,
+    "clanInfo": {
+      "name": "",
+      "tag": "",
+      "badgeId": 0,
+      "role": 0,
+      "type": 0,
+      "trophiesRequired": 0,
+      "membersCount": 0
+    },
+    "discordLink": "",
+    "deck": [
+      26000026,
+      26000015,
+      26000012,
+      26000000,
+      26000004,
+      26000005,
+      26000006,
+      26000007
+    ],
+    "decks": [
+      [
+        26000026,
+        26000015,
+        26000012,
+        26000000,
+        26000004,
+        26000005,
+        26000006,
+        26000007
+      ]
+    ],
+    "activeDeck": 0,
+    "cards": {
+      "26000000": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000001": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000002": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000003": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000004": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000005": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000006": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000007": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000008": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000009": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000010": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000011": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000012": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000013": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000014": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000015": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000016": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000017": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000018": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000019": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000020": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000021": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000022": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000023": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000024": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000025": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000026": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 1,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000027": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000028": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000029": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000030": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000031": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000032": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000033": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000034": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000035": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000036": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000037": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000038": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000039": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000040": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000041": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000042": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000043": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000044": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000045": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000046": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000047": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000048": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000049": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000050": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000051": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000052": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000053": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000054": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000055": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000056": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000057": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000058": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000059": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000060": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000061": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000062": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000063": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000064": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000065": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000066": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000067": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000068": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000069": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000070": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000071": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000072": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000073": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000074": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000075": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000076": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000077": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000078": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000079": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000080": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000081": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000082": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000083": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000084": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000085": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000086": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000087": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000088": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000089": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000090": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000091": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000092": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000093": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000094": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000095": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000096": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000097": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000098": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000099": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000100": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000101": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000102": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "26000103": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000000": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000001": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000002": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000003": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000004": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000005": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000006": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000007": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000008": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000009": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000010": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000011": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000012": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000013": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000014": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000015": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000016": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "27000017": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000000": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000001": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000002": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000003": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000004": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000005": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000006": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000007": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000008": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000009": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000010": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000011": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000012": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000013": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000014": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000015": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000016": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000017": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000018": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000019": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000020": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000021": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000022": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000023": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000024": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000025": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      },
+      "28000026": {
+        "isUnlocked": true,
+        "level": 1,
+        "count": 0,
+        "starLevel": 0,
+        "evoShards": 0,
+        "shardCount": 0
+      }
+    },
+    "champions": [
+      {
+        "cardId": 2223169,
+        "slotIndex": 0
+      },
+      {
+        "cardId": 2223172,
+        "slotIndex": 1
+      },
+      {
+        "cardId": 2223175,
+        "slotIndex": 2
+      },
+      {
+        "cardId": 2223165,
+        "slotIndex": 3
+      },
+      {
+        "cardId": 2223189,
+        "slotIndex": 4
+      },
+      {
+        "cardId": 2223331,
+        "slotIndex": 5
+      }
+    ],
+    "equippedTowerSkin": 0,
+    "equippedScenery": 0,
+    "emoteDeck": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "emotes": [],
+    "towerSkins": [],
+    "sceneries": [],
+    "chestSlots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "banners": [
+      {
+        "id": 4113920,
+        "name": "Lightning",
+        "flagsBefore": [
+          0,
+          0
+        ],
+        "flagsAfter": [
+          -1,
+          0
+        ]
+      },
+      {
+        "id": 4113920,
+        "name": "Fortune",
+        "flagsBefore": [
+          1
+        ],
+        "flagsAfter": [
+          -1,
+          0
+        ]
+      },
+      {
+        "id": 4113920,
+        "name": "Kings",
+        "flagsBefore": [
+          0,
+          -1,
+          2,
+          0
+        ],
+        "flagsAfter": [
+          -1,
+          3
+        ]
+      }
+    ],
+    "_persist": true,
+    "nameChangeState": 0
+  }
+]

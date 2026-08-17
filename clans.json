@@ -1,0 +1,17 @@
+[
+  {
+    "_systemid": 1,
+    "id": {
+      "high": 0,
+      "low": 1
+    },
+    "name": "Server Admin",
+    "description": "Welcome to Clash Royale v15!",
+    "badge_id": 57000007,
+    "region_id": 54000001,
+    "type": 1,
+    "required_trophies": 0,
+    "trophies": 99999,
+    "members": []
+  }
+]

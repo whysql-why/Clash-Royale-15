@@ -1,0 +1,169 @@
+database : 0 players loaded and 1 clans loaded.
+   ____ _           _       ____                   _              _ ____  
+  / ___| | __ _ ___| |__   |  _ \ ___  _   _  __ _| | ___  __   _/ | ___| 
+ | |   | |/ _` / __| '_ \  | |_) / _ \| | | |/ _` | |/ _ \ \ \ / / |___ \ 
+ | |___| | (_| \__ \ | | | |  _ < (_) | |_| | (_| | |  __/  \ V /| |___) |
+  \____|_|\__,_|___/_| |_| |_| \_\___/ \__, |\__,_|_|\___|   \_/ |_|____/ 
+                                       |___/                              
+[SERVER] >> Server started on 9339 port!
+[127.0.0.1] >> Connection accepted
+[127.0.0.1] >> packet 10100 is handled
+[127.0.0.1] >> Packet 20100 (ServerHelloMessage) was sent.
+[crypto] fabricated login (new account); framed plaintext session
+[127.0.0.1] >> packet 10101 is handled
+[LoginMessage] Decoded: {
+  HighID: 0,
+  LowID: 0,
+  Token: '',
+  Major: 15,
+  Build: 535,
+  Content: 13,
+  resourceSha: ''
+}
+[LoginMessage] PERSISTENT user created: ID=1
+[LoginMessage] Player logged in: (no name) (ID: 1)
+[127.0.0.1] >> Authenticated
+[LoginOk] real template: 503 bytes
+[127.0.0.1] >> Packet 20963 (LoginOkMessage) was sent.
+[OwnHomeData] unnamed template 146295B  gold=50000 gems=10000 name=''
+[127.0.0.1] >> Packet 23245 (OwnHomeDataMessage) was sent.
+[127.0.0.1] >> Unknown packet 17537 len=110 hex=010000000762696c6c696e670000005e7b226576656e7450726f64756374223a227061796d656e7473756e617661696c61626c65222c2270726f647563744964 ascii=".....billing...^{"eventProduct":"paymentsunavailable","productId"
+[127.0.0.1] >> Unknown packet 14760 len=0 hex= ascii=""
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 17958 len=9 hex=0100000000043caea6 ascii="......<.."
+[127.0.0.1] >> Unknown packet 10325 len=0 hex= ascii=""
+[127.0.0.1] >> Unknown packet 38000 len=962 hex=000000006a82783a00000000000029e100000000000029e1080000000a41637469766174696f6e00000009436f6c6453746172740000001641737365744c6f61 ascii="....j.x:......).......)......Activation....ColdStart....AssetLoa"
+[127.0.0.1] >> Unknown packet 11218 len=11 hex=00000005776c616e309513 ascii="....wlan0.."
+[127.0.0.1] >> Unknown packet 16513 len=23 hex=0280804001a10f0101008bbbe5437f4d4b9300ffffffff ascii="...@.........C.MK......"
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3013 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=880380804000ffffffff ascii="....@....."
+[127.0.0.1] >> Unknown packet 30000 len=404 hex=0000009e4d6f7a696c6c612f352e3020284c696e75783b20416e64726f69642031343b205047542d414e3130204275696c642f555131412e3234303230352e30 ascii="....Mozilla/5.0 (Linux; Android 14; PGT-AN10 Build/UQ1A.240205.0"
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3012 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=900680804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3012 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=980980804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=a00c80804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3014 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3013 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=a80f80804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3013 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3012 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=b01280804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3012 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=b81580804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3015 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=801980804000ffffffff ascii="....@....."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=881c80804000ffffffff ascii="....@....."
+[127.0.0.1] >> Connection accepted
+[127.0.0.1] >> packet 10100 is handled
+[127.0.0.1] >> Packet 20100 (ServerHelloMessage) was sent.
+[crypto] fabricated login (new account); framed plaintext session
+[127.0.0.1] >> packet 10101 is handled
+[LoginMessage] Decoded: {
+  HighID: 0,
+  LowID: 0,
+  Token: '',
+  Major: 15,
+  Build: 535,
+  Content: 13,
+  resourceSha: ''
+}
+[LoginMessage] Reusing PERSISTENT user: ID=1 name='' gold=50000
+[LoginMessage] Player logged in: (no name) (ID: 1)
+[127.0.0.1] >> Authenticated
+[LoginOk] real template: 503 bytes
+[127.0.0.1] >> Packet 20963 (LoginOkMessage) was sent.
+[OwnHomeData] unnamed template 146295B  gold=50000 gems=10000 name=''
+[127.0.0.1] >> Packet 23245 (OwnHomeDataMessage) was sent.
+[127.0.0.1] >> Unknown packet 17537 len=110 hex=010000000762696c6c696e670000005e7b226576656e7450726f64756374223a227061796d656e7473756e617661696c61626c65222c2270726f647563744964 ascii=".....billing...^{"eventProduct":"paymentsunavailable","productId"
+[127.0.0.1] >> Unknown packet 14760 len=0 hex= ascii=""
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 17958 len=9 hex=0100000000043caea6 ascii="......<.."
+[127.0.0.1] >> Unknown packet 10325 len=0 hex= ascii=""
+[127.0.0.1] >> Unknown packet 38000 len=962 hex=000000006a8278a4000000000000299a000000000000299a080000000a41637469766174696f6e00000009436f6c6453746172740000001641737365744c6f61 ascii="....j.x.......).......)......Activation....ColdStart....AssetLoa"
+[127.0.0.1] >> Unknown packet 11218 len=11 hex=00000005776c616e308013 ascii="....wlan0.."
+[127.0.0.1] >> Unknown packet 16513 len=23 hex=0280804001a10f0101008bbbe5437f4d4b9300ffffffff ascii="...@.........C.MK......"
+[127.0.0.1] >> packet 12471 is handled
+[SERVER] >> Player name saved: sss
+[127.0.0.1] >> Packet 21685 (SetPlayerNameMessageOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 16513 len=25 hex=3380804001900c3232008bbbe54300000003737373ffffffff ascii="3..@...22....C....sss...."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e300f ascii="....wlan0."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3014 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=880380804000ffffffff ascii="....@....."
+[127.0.0.1] >> Unknown packet 30000 len=404 hex=0000009e4d6f7a696c6c612f352e3020284c696e75783b20416e64726f69642031343b205047542d414e3130204275696c642f555131412e3234303230352e30 ascii="....Mozilla/5.0 (Linux; Android 14; PGT-AN10 Build/UQ1A.240205.0"
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 10325 len=0 hex= ascii=""
+[127.0.0.1] >> Unknown packet 16513 len=23 hex=8305808040018e0982058205008bbbe543010affffffff ascii="....@...........C......"
+[127.0.0.1] >> Unknown packet 16719 len=1 hex=02 ascii="."
+[127.0.0.1] >> Unknown packet 13705 len=2 hex=0100 ascii=".."
+[127.0.0.1] >> Unknown packet 13705 len=2 hex=0200 ascii=".."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 13705 len=2 hex=0202 ascii=".."
+[127.0.0.1] >> Unknown packet 16513 len=10 hex=900680804000ffffffff ascii="....@....."
+[127.0.0.1] >> Unknown packet 17537 len=48 hex=010000000953686f705f6f70656e0000001e7b226c6162656c223a2253686f70222c2274797065223a226f70656e227d ascii=".....Shop_open....{"label":"Shop","type":"open"}"
+[127.0.0.1] >> Unknown packet 17537 len=48 hex=010000000953686f705f6f70656e0000001e7b226c6162656c223a2253686f70222c2274797065223a226f70656e227d ascii=".....Shop_open....{"label":"Shop","type":"open"}"
+[127.0.0.1] >> Unknown packet 17537 len=48 hex=010000000953686f705f6f70656e0000001e7b226c6162656c223a2253686f70222c2274797065223a226f70656e227d ascii=".....Shop_open....{"label":"Shop","type":"open"}"
+[127.0.0.1] >> Unknown packet 17537 len=114 hex=010000001065636f6e6f6d795f6f70656e73686f70000000597b226c6162656c223a2245636f6e6f6d79222c2274797065223a226f70656e53686f70222c2270 ascii=".....economy_openshop...Y{"label":"Economy","type":"openShop","p"
+[127.0.0.1] >> Unknown packet 16513 len=24 hex=800780804001be0cbe06be06008bbbe54301a901ffffffff ascii="....@...........C......."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3011 ascii="....wlan0."
+[127.0.0.1] >> Unknown packet 16513 len=26 hex=b10780804001b208b007b007008bbbe5430200a60100ffffffff ascii="....@...........C........."
+[127.0.0.1] >> packet 10108 is handled
+[127.0.0.1] >> Packet 20108 (KeepAliveOkMessage) was sent.
+[127.0.0.1] >> Unknown packet 11218 len=10 hex=00000005776c616e3012 ascii="....wlan0."
