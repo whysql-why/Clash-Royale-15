@@ -68,11 +68,10 @@ class LoginMessage extends PiranhaMessage {
     } else {
       // Existing player: verify the token
       if (!databaseuser || databaseuser.token !== this.data.Token) {
-        setTimeout(() => {
-          new LoginFailedMessage(this.client, {
-            reason: "Invalid credentials, please clear app data",
-          }).send();
-        }, 2000);
+        // Send error immediately without delay
+        new LoginFailedMessage(this.client, {
+          reason: "Invalid credentials, please clear app data",
+        }).send();
         return;
       }
 
@@ -83,16 +82,23 @@ class LoginMessage extends PiranhaMessage {
     this.client.user = databaseuser;
     console.log(`[LoginMessage] Player logged in: ${databaseuser.username || "(no name)"} (ID: ${databaseuser.id.low})`);
 
-    setTimeout(async () => {
+    // FIX: Send responses IMMEDIATELY without setTimeout delay
+    // This prevents packet ordering issues and client timeout
+    try {
       await new LoginOkMessage(this.client).send();
+      console.log(`[LoginMessage] LoginOkMessage sent successfully`);
+      
       await new OwnHomeDataMessage(this.client).send();
-      // (The name popup is driven by the OwnHomeData template: unnamed = popup,
-      //  named = no popup. No need to send 21685 during login.)
+      console.log(`[LoginMessage] OwnHomeDataMessage sent successfully`);
 
       if (this.client.user.clanId && this.client.user.clanId.low > 0) {
         await new AllianceRoleMessage(this.client, this.client.user.clanId, 2).send();
+        console.log(`[LoginMessage] AllianceRoleMessage sent successfully`);
       }
-    }, 2000);
+    } catch (e) {
+      console.error(`[LoginMessage] Error sending login responses:`, e);
+      this.client.destroy();
+    }
   }
 
   /**
